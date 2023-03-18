@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JDawg64kl
-- 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Python
+- 👋 Hi, I’m @Jordan Ybarra
+- 👀 I’m interested in ...Cound Engineering
+- 🌱 I’m currently learning ...Terraform
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...jordanybarra@rocketmail.com
 
